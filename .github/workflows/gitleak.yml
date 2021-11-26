@@ -1,4 +1,4 @@
-name: gitleaks CD
+name: gitleak
 
 on: [pull_request]
 

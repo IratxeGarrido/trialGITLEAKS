@@ -1,3 +1,1 @@
-administrator = "alfhlahfgiowahglnage"
-peter= {laihfoehgleblgeg}
-wiener[hsoegnlsngsgsg]
+AKIA1234567890ASDFGH
